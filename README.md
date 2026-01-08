@@ -18,7 +18,7 @@ Users can **add, edit, and delete notes** with smooth animations and a premium i
 ## 🖥️ App Preview
 
 <p align="center">
-  <img src="./home.png" width="850" />
+  <img src="./home.png.png" width="850" />
 </p>
 
 > _Clean UI with smooth hover animations and modal interactions_

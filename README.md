@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📝 Ramyoz Notes App
 
-## Getting Started
+A modern **full-stack Notes application** built using **Next.js App Router**, **MongoDB**, and a **glassmorphism UI**.  
+Users can **add, edit, and delete notes** with smooth animations and a premium interactive experience.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- ➕ Create notes instantly  
+- ✏️ Edit existing notes  
+- 🗑️ Delete notes  
+- 🎨 Advanced UI with glassmorphism  
+- 🪄 3D hover effects (cards lift out of the screen)  
+- ⚡ Fast API using Next.js App Router  
+- 🗄️ MongoDB database integration  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📸 Screenshots
 
-## Learn More
+### 🖥️ Desktop View
 
-To learn more about Next.js, take a look at the following resources:
+![Notes App UI](./screenshots/home.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+> _Clean UI with smooth hover animations and modal interactions_
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🛠️ Tech Stack
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Frontend:** Next.js (App Router), React
+- **Backend:** Next.js API Routes
+- **Database:** MongoDB (Mongoose)
+- **Styling:** Pure CSS (Glassmorphism, 3D hover)
+- **Deployment Ready:** Vercel
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.

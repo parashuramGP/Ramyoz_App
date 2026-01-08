@@ -21,7 +21,7 @@ Users can **add, edit, and delete notes** with smooth animations and a premium i
 
 ### 🖥️ Desktop View
 
-![Notes App UI](./screenshots/home.png)
+![Notes App UI](./Screenshot 2026-01-08 175057.png)
 
 > _Clean UI with smooth hover animations and modal interactions_
 

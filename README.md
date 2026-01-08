@@ -22,7 +22,7 @@ Users can **add, edit, and delete notes** with smooth animations and a premium i
 ### 🖥️ Desktop View
 
 <p align="center">
-  <img src="./screenshots/home.png" width="850" />
+  <img src="./home.png.png" width="850" />
 </p>
 
 > _Clean UI with smooth hover animations and modal interactions_

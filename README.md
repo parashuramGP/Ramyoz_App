@@ -1,4 +1,10 @@
 #  Ramyoz Notes App
+🚀 How to Start the App
+Clone the repository to your local machine(git clone command)
+Install all required dependencies using npm(npm install)
+Make sure MongoDB is running on your system(create a database and start mongoserver)
+Start the development server(npm run dev )
+Open the app in your browser and begin creating notes
 
 A modern **full-stack Notes application** built using **Next.js App Router**, **MongoDB**, and a **glassmorphism UI**.  
 Users can **add, edit, and delete notes** with smooth animations and a premium interactive experience.

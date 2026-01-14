@@ -27,13 +27,13 @@ Users can **add, edit, and delete notes** with smooth animations and a premium i
 
 ## ✨ Features
 
-- ➕ Create notes instantly  
-- ✏️ Edit existing notes  
-- 🗑️ Delete notes  
-- 🎨 Advanced UI with glassmorphism  
-- 🪄 3D hover effects (cards lift out of the screen)  
-- ⚡ Fast API using Next.js App Router  
-- 🗄️ MongoDB database integration  
+-  Create notes instantly  
+-  Edit existing notes  
+-  Delete notes  
+-  Advanced UI with glassmorphism  
+-  3D hover effects (cards lift out of the screen)  
+-  Fast API using Next.js App Router  
+-  MongoDB database integration  
 
 ---
 
